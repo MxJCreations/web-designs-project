@@ -13,3 +13,15 @@ body {
  margin-left: 300px;
  text-shadow:blue 2px 2px 2px;
 }
+.first {
+    border: crimson solid 5px;
+}
+.head--two {
+    font-size: 35px;
+    width: 500px;
+    padding: 20px;
+    font-weight:600;
+    color:orangered;
+    text-shadow: yellow 10px 16px 22px;
+    
+}
