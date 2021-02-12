@@ -2,6 +2,14 @@ body {
     background-image: url(../images/black.jpg);
     
 }
-h1 {
-    color: red;
+
+.main {
+ background-image: url(../images/background.jpg);
+ font-weight: 800;
+ text-align: center;
+ font-size: 50px;
+ width: 800px;
+ padding: 20px;
+ margin-left: 300px;
+ text-shadow:blue 2px 2px 2px;
 }
