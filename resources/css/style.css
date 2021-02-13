@@ -6,11 +6,11 @@ body {
 .main {
  background-image: url(../images/background.jpg);
  font-weight: 800;
- text-align: center;
+ text-align: left;
  font-size: 50px;
  width: 800px;
  padding: 20px;
- margin-left: 300px;
+ margin-left: 3px;
  text-shadow:blue 2px 2px 2px;
  border: #424bf5 solid 2px;
 }
@@ -149,4 +149,66 @@ div {
     font-weight: bold;
     font-size: 30px;
     padding: 7px;
+}
+.third {
+    border: solid 4px #f7e702;
+}
+.head--four {
+    font-size: 35px;
+    width: 1000px;
+    padding: 20px;
+    font-weight:600;
+    color:orangered;
+    text-shadow: yellow 10px 16px 22px;
+    text-align: left;    
+}
+.style1 {
+    color: white;
+    border: white solid 2px;
+    text-align: left;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-family: Helvetica;
+    width: 250px;
+}
+.title5 {
+    text-decoration: underline;
+    font-weight: 900px;
+    font-size: 20px;
+    padding: 7px;   
+}
+.style2 {
+    color: white;
+    border: white solid 2px;
+    text-align: left;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-family: Verdana;
+    width: 250px;
+    
+    
+}
+.title6 {
+    text-decoration: underline;
+    font-weight: 600px;
+    font-size: 20px;
+    padding: 4px;
+    
+}
+.style3 {
+    color: white;
+    border: white solid 2px;
+    text-align: left;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-family: Garamond;
+    width: 250px;
+    font-size: 17px;
+}
+.title7 {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 4px;
+    text-align: center;
 }
